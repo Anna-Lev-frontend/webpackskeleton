@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Robooto';
+  src: url('../assets/fonts/Roboto-Regular.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Robooto';
+  src: url('../assets/fonts/Roboto-Bold.ttf') format('ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+* {
+    font-size: 20px;
+}
+.div-class {
+    height: 150px;
+width: 150px;
+background-image: url('/assets/images/eggBroken.png');
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+}
